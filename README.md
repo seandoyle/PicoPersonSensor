@@ -6,4 +6,5 @@ The only substantial difference is that it is writing to an OLED display
 
 ![Picture of the assembled unit](./PersonSensorPico.jpeg)
 
-
+The purpose of this project is simpy to understand the [PersonSensor](https://usefulsensors.com/person-sensor/) 
+and the Pico. 
